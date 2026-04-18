@@ -10,4 +10,8 @@ Connect the DB9 module this way:
 
 <img width="357" height="375" alt="image" src="https://github.com/user-attachments/assets/9413d7bb-fd24-4a42-9c6e-eb2d510bb8cf" />
 
+Connect the OTG output to the PC USB.
+
+For ESP32 boards without OTG Port it can be done a Bluetooth version (I have done), but it works worse than this wired one.
+
 Enjoy!
